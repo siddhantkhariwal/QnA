@@ -27,3 +27,8 @@ Data Hiding : The data which cannot be accessed directly outside class premise, 
 Dynamic Binding : The process of linking function call to function signature
 Inheritance : Property by which object of one class acquire some common properties of another class
 Polymorphism : The process of using a function for more than one purpose.
+
+JDK
+The Java Development Kit (JDK) provides a software development environment  used for developing Java applications and applets. It includes the Java  Runtime Environment (JRE), an interpreter/loader (Java), a compiler  (javac), an archiver (jar), a documentation generator (Javadoc) and  other tools needed in Java development.
+
+
