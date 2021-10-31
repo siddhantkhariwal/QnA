@@ -1,0 +1,29 @@
+Hello World
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class HelloWorld
+{
+	public static void main (String[] args)
+	{
+	    System.out.println("Hello World");
+	}
+}
+Object Oriented Programming
+Object-oriented programming (OOP) is a fundamental programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects.
+
+Characteristics of OOP:
+
+More emphasis on data rather than functions
+Divides the program into no of objects
+Basic elements of OOP:
+
+Class: It is a group of similar types of Objects which possess same attributes and behaviour.
+Object: It is a unique entity that contains data and functions (characteristics and behaviour) together in an OOP.
+Data Abstraction : Act of representing essential features without including the background details
+Encapsulation : The wrapping of data and functions, together in a single unit.
+Data Hiding : The data which cannot be accessed directly outside class premise, although they are in same class
+Dynamic Binding : The process of linking function call to function signature
+Inheritance : Property by which object of one class acquire some common properties of another class
+Polymorphism : The process of using a function for more than one purpose.
